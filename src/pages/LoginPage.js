@@ -105,7 +105,7 @@ const TextInput = styled.input`
 const Card = styled.section`
 	background: #fff;
 	padding: 44px;
-	min-width: 320px;
+	min-width: 120px;
 	min-height: 320px;
 	max-width: 440px;
 	width: calc(100% - 40px);
