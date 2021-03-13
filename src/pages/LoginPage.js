@@ -10,7 +10,7 @@ function LoginPage() {
 			<Card className='ms-depth-64'>
 				<TitleContainer>
 					<i class='ms-Icon ms-Icon--Cloud' aria-hidden='true' style={{ color: '#0078d4', fontSize: 36 }}></i>
-					<h5 className='mx-2 my-0 '>iTherapist Admin</h5>
+					<h5 className='mx-2 my-0 '>iTherapist Adminnn</h5>
 				</TitleContainer>
 				<h3>Sign in</h3>
 				<Form>
