@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/efdd6fcd-0b76-484e-98af-aad14c1aef72/resourceGroups/keekii/providers/Microsoft.Web/sites/keekii",
+    "appService.deploySubpath": "build"
+}
