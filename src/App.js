@@ -4,7 +4,7 @@ import { loadTheme } from '@fluentui/react';
 import { useEffect } from 'react';
 import LoginPage from './pages/LoginPage';
 
-const myTheme = {
+const theme = {
 	palette: {
 		themePrimary: '#0178D4',
 		themeLighterAlt: '#f3f9fd',
@@ -33,7 +33,7 @@ const myTheme = {
 
 function App() {
 	useEffect(() => {
-		loadTheme(myTheme);
+		loadTheme(theme);
 	}, []);
 
 	return <LoginPage />;
