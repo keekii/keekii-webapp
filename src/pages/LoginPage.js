@@ -84,10 +84,6 @@ const Logo = styled.i`
 	color: red;
 `;
 
-const FormRow = styled.section``;
-
-const Label = styled.label``;
-
 const TextInput = styled.input`
 & {
     display: flex;
